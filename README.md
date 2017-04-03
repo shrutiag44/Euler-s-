@@ -14,3 +14,17 @@ Each Program contains:
 - function to test the program
 - appropriate comments included in the code, and
 - screenshot for output attached herewith in png format.
+
+
+
+Why you chose the problems:
+I chose the following problems because:
+a. they were an interesting exercise.
+b. wanted to make sure the code was testable and requirements were very clear
+c. I chose one easy problem and two moderately medium ones so I could optimize the code as much as possible
+
+Time taken:
+Research on questions, selection of questions:  2 H
+Algorithms, code logic and implementation: 6 H
+Code Test strategies and implementation: 2 H
+Commenting and final submission: 30 mins
