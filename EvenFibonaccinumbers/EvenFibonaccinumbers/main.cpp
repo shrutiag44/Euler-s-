@@ -58,5 +58,6 @@ int main(int argc, const char * argv[]) {
     
     sum_EvenFibonacci();
     testsum_EvenFibonacci();
+    cout<<"RunTine: O(1) constant time"<<endl;
     return 0;
 }

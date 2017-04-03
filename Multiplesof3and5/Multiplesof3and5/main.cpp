@@ -50,5 +50,7 @@ int main(int argc, const char * argv[]) {
     int b = 5;
     multiplesOf(a,b);
     testMultiplesOf();
+    cout<<" RunTime: O(n) for multiplesOf method"<<endl;
+
     return 0;
 }

@@ -89,5 +89,6 @@ void testIsPalindrome()
 int main(int argc, const char * argv[]) {
     maxPalindrome();
     testIsPalindrome();
+    cout<<"RunTime: O(n^2) for isPalindrome method"<<endl;
     return 0;
 }
